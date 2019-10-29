@@ -23,14 +23,11 @@
 define( 'DB_NAME', 'wp-blog-2019' );
 
 /** MySQL database username */
-define( 'DB_USER', 'admin' );
+define( 'DB_USER', 'root' );
 
 /** MySQL database password */
-define( 'DB_PASSWORD', '1f2b8874f5664e19e7e3c55ed1f0f6e27196dcabdc3fbc91' );
+define( 'DB_PASSWORD', '' );
 
-/** MySQL database password 
-define( 'DB_PASSWORD', 'af1dc30efee0cb61acd3f2d1a6f6c3a40c5e98559c779b3d' );
-*/
 /** MySQL hostname */
 define( 'DB_HOST', 'localhost' );
 
@@ -49,14 +46,14 @@ define( 'DB_COLLATE', '' );
  *
  * @since 2.6.0
  */
-define( 'AUTH_KEY',         'd&i>f:|j9A{aFh,@sq.t;qW50bm!$7cl<uZA$NGR.e>Mb4aj!YnF?<c4cud(IdP`' );
-define( 'SECURE_AUTH_KEY',  '&%{U>+L-yuY%bP:,!@h[a3(n!x7mNZ$+#fSU!B*UQc8;vYXtQX~W$gIBe_U>3+-d' );
-define( 'LOGGED_IN_KEY',    '4x?;u0(uTyYmCt/(s93rhSawr.j3Vput:c[_iXhNS_G&cLPHM(9diK/i_Av($2mM' );
-define( 'NONCE_KEY',        '{od7$ZTkIjPnCjV<XLp0Sn?x9=1dPCmS2LUROhr<=c(cN{V.JPe#D0s:y7n!1Nca' );
-define( 'AUTH_SALT',        'VTG__5jeB>hE,;L.>uH~H6`7;5!kMo8,0?ASoIs2/nZXn(:QLT1xy3/TJ vI_fbm' );
-define( 'SECURE_AUTH_SALT', 'XL:9*#FQ$}cA_Sw>Af-T.4~$VR9jr2RnUb/uOc+cY}_JynPT|nOnQq{lOykg=eP/' );
-define( 'LOGGED_IN_SALT',   '=+nHz:~r^q@ i2K#*vLcE>/)C`;]vchQ*N9)W`xtD69/d9[EIWmKo=!,=]iYf{.e' );
-define( 'NONCE_SALT',       '6d1{dU,7^|j2 ]#{L__rl1qXl79>GpvR_2$|lAYy.B!qp3,{Nb(P[qMQEar~$OC$' );
+define( 'AUTH_KEY',         'UVoRT]9/NLP%#hK7PI1:&TJ% fJo(cNFP3/icDz<]CjYsz8s!wqCq`}K2G*;*,jx' );
+define( 'SECURE_AUTH_KEY',  'Bq<~*WParLOVOh|`brAtU{mv,*t VI]GCO%IQBP#T1#? RkaKjQUaLu_</9my0J5' );
+define( 'LOGGED_IN_KEY',    ' 87+J{y,d1<e2An(t<,/Zg#np*d5Xb~_QymySOdE<aN^6&9BVUFh]-iO=;5SPO&$' );
+define( 'NONCE_KEY',        '{Fk+)N6Yu.&#A%n*6<Uf :=|Hv*P1fhlx~gmM,@Z3d$%HjP_#*Iq3Ee3Or~Mnfb+' );
+define( 'AUTH_SALT',        'v8oQms0UgKNl?vD>ZIy/UF%)`#8B=:vjxi$@TUZTgOfXLnL1.V#^bKIJA<ETAYS6' );
+define( 'SECURE_AUTH_SALT', '%1w1EY^/4MIi:r9t~enz/_j~@VK2|5$y%,)/eXXIF&?S+4|,i=1=VO(JlSH|yY[J' );
+define( 'LOGGED_IN_SALT',   '_b=sJ}>sPnn%fIv-H*,:]@E2BL`oDYPk<9Ke|+pjRR],H::/kMd<_v~N/>m]y@ :' );
+define( 'NONCE_SALT',       'yODH~{@6dB>VeJ2=a#$or9ZS[j42C8UKZe[87aD[q:<o fUPdwP7zTvUOTW1XI:<' );
 
 /**#@-*/
 
